@@ -1,0 +1,10 @@
+*~
+*.a
+*.dylib
+*.o
+*.so
+Makefile
+autom4te.cache/
+config.*
+configure.lineno
+pkgIndex.tcl
